@@ -8,4 +8,4 @@ El proyecto se compone de tres módulos:
  - Configuración de una Raspberry Pi 
  - Aplicación Unity 3D
  
-Estos tres módulos se comunican entre mediante el protocolo mqtt, cuyo broker está instalado en la Raspberry Pi.  
+Estos tres módulos se comunican entre si mediante el protocolo mqtt, cuyo broker está instalado en la Raspberry Pi.  
