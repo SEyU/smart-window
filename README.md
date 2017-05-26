@@ -6,6 +6,14 @@ El proyecto se compone de tres módulos:
 
  - [Ensamblaje y configuración de los NodeMCU](NodeMCU)
  - [Configuración de una Raspberry Pi](webapp-iot) 
- - Aplicación Unity 3D
+ - [Aplicación Unity 3D](Unity)
  
 Estos tres módulos se comunican entre si mediante el protocolo mqtt, cuyo broker está instalado en la Raspberry Pi.  
+
+<h1>NodeMCU Exterior</h1>
+
+![Montaje en protoboaard del NodeMCU Exterior](MCUEXT.jpg)
+
+<h1>NodeMCU Interior</h1>
+
+![Montaje en protoboaard del NodeMCU Interior](MCUINT.jpg)
